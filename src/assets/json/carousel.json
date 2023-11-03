@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "title": "01-CISCOU",
+    "src": "assets/images/Cisco-01.png",
+    "subHeading": "Dashboard Design",
+    "year": 2022
+  },
+  {
+    "id": 1,
+    "title": "02-TATAI Ashiayana",
+    "src": "assets/images/ashiyana-02.png",
+    "subHeading": "Dashboard Design",
+    "year": 2022
+  },
+  {
+    "id": 2,
+    "title": "03-AGRIMandiOne",
+    "src": "assets/images/MandiOne-03.png",
+    "subHeading": "Dashboard Design",
+    "year": 2022
+  },
+  {
+    "id": 3,
+    "title": "04-Navikanz",
+    "src": "assets/images/Navikens-04.png",
+    "subHeading": "Dashboard Design",
+    "year": 2022
+  },
+  {
+    "id": 4,
+    "title": "05-SIP Kotaku",
+    "src": "assets/images/kotak-05.png",
+    "subHeading": "Dashboard Design",
+    "year": 2022
+  },
+  {
+    "id": 5,
+    "title": "06-Flash Housing",
+    "src": "assets/images/Flashhouse-06.png",
+    "subHeading": "Dashboard Design",
+    "year": 2022
+  },
+  {
+    "id": 4,
+    "title": "07-CENZE Design System",
+    "src": "assets/images/DesignSystem-07.png",
+    "subHeading": "Dashboard Design",
+    "year": 2022
+  }
+]
